@@ -1,7 +1,15 @@
-Centos/.vagrant
+Centos/.vagrant/machines
 
-90daysofdevops/.vagrant
+Centos/.vagrant/rgloader
 
-Docker-Vagrant/.vagrant/
+90daysofdevops/.vagrant/machines
 
-VM/.vagrant
+90daysofdevops/.vagrant/rgloader
+
+Docker-Vagrant/.vagrant/machines
+
+Docker-Vagrant/.vagrant/rgloader
+
+VM/.vagrant/machines
+
+VM/.vagrant/rgloader
