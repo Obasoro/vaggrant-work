@@ -1,7 +1,7 @@
-Centos\.vagrant
+Centos/.vagrant
 
-90daysofdevops\.vagrant
+90daysofdevops/.vagrant
 
-Docker-Vagrant\.vagrant
+Docker-Vagrant/.vagrant/
 
-VM\.vagrant
+VM/.vagrant
